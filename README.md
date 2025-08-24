@@ -84,16 +84,16 @@ pip install numpy pandas matplotlib seaborn ipywidgets scikit-learn
 
 You can run this project in an isolated, reproducible environment using Docker.
 A prebuilt image is available on Docker Hub:  
-**Image:** [`fatmaalzahra/crop-recommendation:latest`](https://hub.docker.com/r/fatmaalzahra/crop-recommendation)
+**Image:** [`fatmaalzahra/crop-recommendation`](https://hub.docker.com/r/fatmaalzahra/crop-recommendation)
 
 ### Option A — Pull & Run (recommended)
 
 ```bash
 # 1) Pull the image
-docker pull fatmaalzahra/crop-recommendation:latest
+docker pull fatmaalzahra/crop-recommendation
 
 # 2) Run Jupyter (container exposes port 8888)
-docker run --rm -p 8888:8888 fatmaalzahra/crop-recommendation:latest
+docker run --rm -p 8888:8888 fatmaalzahra/crop-recommendation
 
 ### Execution Steps
 1. **Clone the repository** to your local machine
