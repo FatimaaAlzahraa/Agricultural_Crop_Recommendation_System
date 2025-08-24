@@ -1,8 +1,8 @@
 ## Agricultural Crop Recommendation System
-- Project Overview
+#### Project Overview
 This project implements a machine learning-based system to recommend the most suitable crops for cultivation based on climatic and soil conditions. The system uses clustering and classification techniques to optimize agricultural production through precision farming.
 
-- Problem Statement
+#### Problem Statement
 Building a predictive model to suggest optimal crops based on available climatic and soil conditions to help farmers maximize productivity and cope with weather unpredictability.
 
 Dataset
