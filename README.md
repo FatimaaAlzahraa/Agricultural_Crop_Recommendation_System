@@ -88,7 +88,7 @@ A prebuilt image is available on Docker Hub:
 
 ### Option A — Pull & Run (recommended)
 
-
+```bash
 # 1) Pull the image
 docker pull fatmaalzahra/crop-recommendation
 
